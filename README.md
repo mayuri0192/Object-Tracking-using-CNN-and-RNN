@@ -1,6 +1,1 @@
-"# quiz2-mayuri0192" 
-"# homework2-mayuri0192" 
-"# finalexam-mayuri0192" 
-"# ML-Algoritms" 
-"# Visualization-with-D3.js" 
-"# Object-Tracking-using-CNN-and-RNN" 
+Object Tracking using CNN and RNN. 
