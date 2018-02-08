@@ -20,5 +20,5 @@ With the help of visual features of the objects, the next location of the boundi
 Dependencies: 
 
         1) Python 2.7 or Python +3.3  
-        2) TensorFlow r1.5
+        2) Tensorflow r1.5
         3) OpenCV
