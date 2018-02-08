@@ -1,6 +1,7 @@
 Object Tracking using CNN and RNN. 
 
 Followed the paper : https://arxiv.org/pdf/1607.05781.pdf
+
 Dataset: http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
 
