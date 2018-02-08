@@ -27,7 +27,7 @@ class ObjectTracking:
     num_layers = 3
     dropout = dropout = 0.35
 
-    # tf Graph input
+    # placeholders for input fed to tf graph
     input_x = tf.placeholder("float32", [None, num_steps, num_input])
     initstate = tf.placeholder("float32", [None, 2*num_input]) #state & cell => 2x num_input
     input_y = tf.placeholder("float32", [None, num_gt])
