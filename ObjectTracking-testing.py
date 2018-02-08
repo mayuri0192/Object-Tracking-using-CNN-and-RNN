@@ -2,7 +2,7 @@
 # Imports
 import ObjectTracking_utils as utils
 import tensorflow as tf
-from tensorflow.models.rnn import rnn
+from tensorflow.contrib import rnn
 import cv2
 import numpy as np
 import os.path
