@@ -1,6 +1,9 @@
 Object Tracking using CNN and RNN. 
 
-Followed the paper : https://arxiv.org/pdf/1607.05781.pdf
+Followed the papers : Spatially Supervised Recurrent Convolutional Neural
+Networks for Visual Object Tracking: https://arxiv.org/pdf/1607.05781.pdf and 
+
+You Only Look Once:Unified, Real-Time Object Detection: https://arxiv.org/pdf/1506.02640.pdf
 
 Dataset: http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
