@@ -16,3 +16,8 @@ The 4096 visual features obtained from YOLO Convolutional layer is concatenated 
 These 4096 + 6 = 4102 features are given to stacked LSTM as input. 
 
 With the help of visual features of the objects, the next location of the bounding boxes is predicted by the LSTM.
+
+Dependencies: 
+    1) Python 2.7 or Python +3.3
+    2) TensorFlow r1.5
+    3) OpenCV
